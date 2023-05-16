@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, i'm @raguna9
-- 🌱 I’m currently learning React and web3
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything
 
 
