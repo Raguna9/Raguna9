@@ -6,7 +6,6 @@
 - 👀 I'm interested in blockchain
 - 👯 I’m looking to collaborate on anything
 
-https://www.linkedin.com/in/diky-wiraguna-8a9461225/
 
 <!--
 **Raguna9/Raguna9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
