@@ -3,7 +3,6 @@
 
 - 👋 Hi, i'm @raguna9
 - 🌱 I’m currently learning React and web3
-- 👀 I'm interested in blockchain
 - 👯 I’m looking to collaborate on anything
 
 
